@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	66c3c5ad2d41fca205eb29df9b0046cd
-URL:		http://pear.horde.org/package/Horde_Text_Filter/
+URL:		https://github.com/horde/horde/tree/master/framework/Text_Filter/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
