@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Text Filter API
 Name:		php-horde-Horde_Text_Filter
-Version:	1.0.0
+Version:	1.0.3
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	66c3c5ad2d41fca205eb29df9b0046cd
+# Source0-md5:	bb49955f3a482bd415901155b648f570
 URL:		https://github.com/horde/horde/tree/master/framework/Text_Filter/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
