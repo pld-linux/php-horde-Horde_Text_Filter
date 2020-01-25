@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Text_Filter
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Text Filter API
 Name:		php-horde-Horde_Text_Filter
 Version:	1.1.5
