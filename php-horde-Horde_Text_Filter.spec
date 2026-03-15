@@ -5,7 +5,7 @@
 Summary:	%{pearname} - Horde Text Filter API
 Name:		php-horde-Horde_Text_Filter
 Version:	1.1.5
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
